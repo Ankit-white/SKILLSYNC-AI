@@ -51,7 +51,7 @@ skills_list = [
     "python", "java", "c++", "html", "css", "javascript",
     "react", "nodejs", "mongodb", "sql", "machine learning",
     "data science", "numpy", "pandas", "opencv", "firebase",
-    "django", "flask"
+    "django", "flask","embedded c","vlsi","iot","pcbdesigning","git","github"
 ]
 #fileuploading using file_uploader
 uploaded_file = st.file_uploader("Upload Your Resume (PDF)", type=["pdf"])
